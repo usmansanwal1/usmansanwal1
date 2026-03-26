@@ -1,55 +1,78 @@
 # Muhammad Usman Sanwal
 
-[![Email](https://img.shields.io/badge/Email-m.usman.sanwal@gmail.com-blue?style=flat-square&logo=gmail)](mailto:m.usman.sanwal@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-usman-sanwal-26957330) 
-[![Location](https://img.shields.io/badge/Location-Turku%2C%20Finland-green?style=flat-square&logo=google-maps)]()
+[![Email](https://img.shields.io/badge/Email-m.usman.sanwal@gmail.com-blue?style=flat-square&logo=gmail)](mailto:m.usman.sanwal@gmail.com)  
+[![Location](https://img.shields.io/badge/Location-Turku%2C%20Finland-green?style=flat-square&logo=google-maps)]()  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-usman-sanwal-26957330)
 
 ---
 
 ## 👨‍💻 About Me
-Formal Verification Engineer with 8+ years of experience in theorem proving, model checking, and refinement-based verification of complex and safety-critical systems. Passionate about applying formal methods to hardware datapath verification, system modeling, and correctness proofs.
-
-- 📚 Strong foundation in logic, abstraction, and proof engineering  
-- ⚙️ Experienced in hardware/software verification (SystemVerilog, VHDL)  
-- 🛠️ Skilled in Python, C/C++, R for formal methods tooling  
+Formal Methods researcher with extensive experience in **theorem proving, model checking, and computational methods** applied to safety-critical systems and biological modeling. Skilled in **data science, computational biomodeling, and formal verification**. Experienced in mentoring PhD and MSc students and delivering courses in Formal Methods and Data Science.
 
 ---
 
-## 🛠 Core Skills
+## 🔬 Research & Teaching Experience
 
-**Formal Verification & Methods:**  
-[![HOL4](https://img.shields.io/badge/HOL4-%23007ACC?style=for-the-badge&logo=appveyor)]()
-[![HOL Light](https://img.shields.io/badge/HOL%20Light-%23007ACC?style=for-the-badge&logo=appveyor)]()
-[![Event-B](https://img.shields.io/badge/Event-B-%23007ACC?style=for-the-badge&logo=appveyor)]()
-[![PRISM](https://img.shields.io/badge/PRISM-%23007ACC?style=for-the-badge)]()
-[![SPIN](https://img.shields.io/badge/SPIN-%23007ACC?style=for-the-badge)]()
+### **Postdoctoral Researcher** | University of Turku, Finland  
+*Sep 2023 – Present | Human Diversity Consortium*  
+- Data management and analysis for large-scale research projects  
+- Supporting PhD and MSc students with data analysis questions  
 
-**Programming & Tools:**  
-[![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)]()
-[![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-[![R](https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r&logoColor=white)]()
-[![MATLAB](https://img.shields.io/badge/MATLAB-%230073AF?style=for-the-badge&logo=matlab&logoColor=white)]()
-[![Rodin](https://img.shields.io/badge/Rodin-%23007ACC?style=for-the-badge)]()
+### **Postdoctoral Researcher** | Malardalen University, Sweden  
+*Sep 2021 – Aug 2023 | Division of Product Realisation*  
+- Formal modeling of moving block railway signaling systems  
+- Part of EU Horizon 2020 PERFORMINGRAIL project  
+- Teaching Formal Modeling, Data Science, and Cybersecurity  
 
-**Hardware:**  
-[![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%23FF3C00?style=for-the-badge)]()
-[![VHDL](https://img.shields.io/badge/VHDL-%23FF3C00?style=for-the-badge)]()
+### **Postdoctoral Researcher** | ˚Abo Akademi University, Finland  
+*May 2020 – Aug 2021 | Algorithms & Software in Bio Engineering*  
+- Research on formal modeling and data analytics  
+- Mentored and co-supervised MSc and PhD students  
+
+### **Doctoral Researcher** | ˚Abo Akademi University, Finland  
+*Jan 2015 – Apr 2020 | Computational Biomodelling Laboratory (Combio)*  
+- Research on computational biomodeling and formal verification  
+- Supervisor: Prof. Ion Petre  
+
+### **Research Assistant** | NUST, Pakistan  
+*Sep 2011 – Aug 2014 | System Analysis and Verification Lab (SEECS)*  
+- Formal verification of cyber-physical systems  
+- Supervisor: Dr. Osman Hasan  
+
+### **Teaching Assistant** | NUST, Pakistan  
+*June 2010 – May 2011 | Center for Advanced Mathematics and Physics (CAMP)*
+
+---
+
+## 🛠 Skills
+
+**Formal Methods & Verification:**  
+HOL4, HOL Light, Event-B, PRISM, SPIN, Model Checking, Refinement  
+
+**Programming & Data Science:**  
+Python, C/C++, R, MATLAB, Mathematica  
+
+**Hardware & Systems:**  
+SystemVerilog, VHDL, Datapath Verification  
+
+**Methods & Analysis:**  
+Abstraction, Temporal Logic, Proof Engineering, Computational Biomodeling, Machine Learning  
 
 ---
 
 ## 🔹 Featured Projects
 
-### [HOL4-Examples](https://github.com/usmansanwal1/HOL4-Examples)
-Collection of example proofs and theorem-proving exercises in HOL4.
+- **[HOL4-Examples](https://github.com/usmansanwal1/HOL4-Examples)** – Example proofs and formal verification exercises  
+- **[Railway-Signal-Verification](https://github.com/usmansanwal1/Railway-Signal-Verification)** – Model checking and formal verification of railway signaling  
+- **[Datapath-Verification](https://github.com/usmansanwal1/Datapath-Verification)** – Verification scripts for arithmetic units and hardware datapaths  
+- **[Formal-Methods-Tools](https://github.com/usmansanwal1/Formal-Methods-Tools)** – Utility scripts and Python frameworks for formal methods  
 
-### [Railway-Signal-Verification](https://github.com/usmansanwal1/Railway-Signal-Verification)
-Model checking and Event-B verification examples for railway signaling systems.
+---
 
-### [Datapath-Verification](https://github.com/usmansanwal1/Datapath-Verification)
-Verification scripts for arithmetic units and hardware datapaths in SystemVerilog/VHDL.
-
-### [Formal-Methods-Tools](https://github.com/usmansanwal1/Formal-Methods-Tools)
-Utility scripts and Python frameworks supporting formal modeling and verification.
+## 📄 Publications
+- Sanwal et al., *Scientific Reports*, 2022  
+- Sanwal et al., *Computers in Biology and Medicine*, 2019  
+- Multiple peer-reviewed conference publications in formal methods and computational modeling  
 
 ---
 
@@ -60,13 +83,6 @@ Utility scripts and Python frameworks supporting formal modeling and verificatio
 
 ---
 
-## 📄 Publications
-- Sanwal et al., *Scientific Reports*, 2022  
-- Sanwal et al., *Computers in Biology and Medicine*, 2019  
-- Multiple peer-reviewed conference publications in formal methods  
-
----
-
 ## 📫 Contact Me
 - Email: [m.usman.sanwal@gmail.com](mailto:m.usman.sanwal@gmail.com)  
 - LinkedIn: [linkedin.com/in/muhammad-usman-sanwal-26957330](https://www.linkedin.com/in/muhammad-usman-sanwal-26957330)  
@@ -74,4 +90,4 @@ Utility scripts and Python frameworks supporting formal modeling and verificatio
 
 ---
 
-*"Making formal methods accessible, one proof at a time."*
+*"Bringing formal methods and computational modeling to real-world safety-critical systems."*
